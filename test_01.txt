@@ -1,0 +1,95 @@
+Test 1//добавление элементов в коллекцию
+Input figure type:
+1 - Pentagon
+2 - Octagon
+3 - Hexagon
+4 - Tuple
+'q' to close application
+1
+Input Vertex of the Pentagon:
+Input coordinate 'x': 12
+Input coordinate 'y': 213
+Input coordinate 'x': 21
+Input coordinate 'y': 231
+Input coordinate 'x': 123
+Input coordinate 'y': 123
+Input coordinate 'x': 123
+Input coordinate 'y': 123
+Input coordinate 'x': 12
+Input coordinate 'y': 12
+[12 213] [21 231] [123 123] [123 123] [12 12]
+Area of object: 12559
+Center of object: [58.2 140.4]
+
+Input figure type:
+1 - Pentagon
+2 - Octagon
+3 - Hexagon
+4 - Tuple
+'q' to close application
+4
+Input tuple:
+Enter the number of vertices
+12
+Input figure type:
+1 - Pentagon
+2 - Octagon
+3 - Hexagon
+4 - Tuple
+'q' to close application
+4
+Input tuple:
+Enter the number of vertices
+112
+Input figure type:
+1 - Pentagon
+2 - Octagon
+3 - Hexagon
+4 - Tuple
+'q' to close application
+3
+Input Vertex of the hexagon:
+Input coordinate 'x': 12
+Input coordinate 'y': 124
+Input coordinate 'x': 12
+Input coordinate 'y': 214
+Input coordinate 'x': 214
+Input coordinate 'y': 124
+Input coordinate 'x': 124
+Input coordinate 'y': 12
+Input coordinate 'x': 4214
+Input coordinate 'y': 124
+Input coordinate 'x': 124
+Input coordinate 'y': 12
+[12 124] [12 214] [214 124] [124 12] [4214 124] [124 12]
+Area of object: 20402
+Center of object: [783.333 101.667]
+
+Input figure type:
+1 - Pentagon
+2 - Octagon
+3 - Hexagon
+4 - Tuple
+'q' to close application
+2
+Input Vertex of the octagon:
+Input coordinate 'x': 124
+Input coordinate 'y': 12
+Input coordinate 'x': 124
+Input coordinate 'y': 214
+Input coordinate 'x': 124
+Input coordinate 'y': 12
+Input coordinate 'x': 41
+Input coordinate 'y': 421
+Input coordinate 'x': 412
+Input coordinate 'y': 4124
+Input coordinate 'x': 124
+Input coordinate 'y': 12
+Input coordinate 'x': 124
+Input coordinate 'y': 124
+Input coordinate 'x': 124
+Input coordinate 'y': 124
+[124 12] [124 214] [124 12] [41 421] [412 4124] [124 12] [124 124] [124 124]
+Area of object: 229544
+Center of object: [149.625 630.375]
+

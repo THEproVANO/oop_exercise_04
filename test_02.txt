@@ -1,0 +1,24 @@
+Test 2//
+Input figure type:
+1 - Pentagon
+2 - Octagon
+3 - Hexagon
+4 - Tuple
+'q' to close application
+4
+Input tuple:
+Enter the number of vertices
+5
+Coordinate 'x': 12
+Coordinate 'y': 214
+Coordinate 'x': 124
+Coordinate 'y': 21
+Coordinate 'x': 4124
+Coordinate 'y': 14
+Coordinate 'x': 124
+Coordinate 'y': 124
+Coordinate 'x': 124
+Coordinate 'y': 12
+[12 214] [124 21] [4124 14] [124 124] [124 12]
+Area of object: 565720
+Center of object: [901.6 77]
